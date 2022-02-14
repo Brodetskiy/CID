@@ -1,0 +1,10 @@
+C:\Users\brods\source\repos\CID\CID_test\CID_test\bin\Debug\CID_test.dacpac
+C:\Users\brods\source\repos\CID\CID_test\CID_test\bin\Debug\CID_test.dll
+C:\Users\brods\source\repos\CID\CID_test\CID_test\bin\Debug\CID_test.pdb
+C:\Users\brods\source\repos\CID\CID_test\CID_test\obj\Debug\CID_test.sqlproj.AssemblyReference.cache
+C:\Users\brods\source\repos\CID\CID_test\CID_test\obj\Debug\Model.xml
+C:\Users\brods\source\repos\CID\CID_test\CID_test\obj\Debug\refactor.xml
+C:\Users\brods\source\repos\CID\CID_test\CID_test\obj\Debug\postdeploy.sql
+C:\Users\brods\source\repos\CID\CID_test\CID_test\obj\Debug\predeploy.sql
+C:\Users\brods\source\repos\CID\CID_test\CID_test\obj\Debug\CID_test.dll
+C:\Users\brods\source\repos\CID\CID_test\CID_test\obj\Debug\CID_test.pdb
